@@ -11,32 +11,32 @@ This is a simple chatbot application built with Python and the OpenAI API. The c
 
 1. Clone this repository:
 
-'''bash
+```bash
 git clone https://github.com/ShreejeetPurwar/python-chatbot.git
 cd python-chatbot
-'''
+```
 
 2. Install the required packages:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 3. Set up your OpenAI API key:
 
 Copy your API key from the OpenAI website and set it as an environment variable:
 
-'''bash
+```bash
 export OPENAI_API_KEY=your_api_key_here
-'''
+```
 
 ## Usage
 
 Run the chatbot:
 
-'''bash
+```bash
 python chatbot.py
-'''
+```
 
 To start a conversation with the chatbot, simply type your message and press Enter. The chatbot will generate a response and display it on the screen. To exit the chat, type "quit" or "exit" and press Enter.
 
